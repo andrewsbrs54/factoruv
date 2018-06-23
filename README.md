@@ -7,3 +7,6 @@
 ## Codacy code
 ## Codacy coverage
 ## Snyk
+
+##Better code hub
+[![BCH compliance](https://bettercodehub.com/edge/badge/andrewsbrs54/factoruv?branch=master)](https://bettercodehub.com/)
