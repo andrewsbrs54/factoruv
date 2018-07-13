@@ -100,6 +100,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+data/
+/data
 
 ### Windows ###
 # Windows thumbnail cache files
