@@ -1,0 +1,10 @@
+import airbrake
+
+
+logger = airbrake.getLogger(api_key="<Your project API KEY>", project_id=<Your project ID>)
+
+
+try:
+    1/0
+except Exception:
+    logger.exception("Bad math.")
