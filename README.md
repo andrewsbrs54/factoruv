@@ -3,7 +3,7 @@
 ## Codebeat
 [![codebeat badge](https://codebeat.co/badges/457dad67-7a79-4458-a454-1c4c7917eda1)](https://codebeat.co/projects/github-com-andrewsbrs54-factoruv-master)
 ## travisCi
-https://travis-ci.org/andrewsbrs54/factoruv.svg?branch=master
+[![Build Status](https://travis-ci.org/andrewsbrs54/factoruv.svg?branch=master)](https://travis-ci.org/andrewsbrs54/factoruv)
 
 ## Codacy code
 ## Codacy coverage
