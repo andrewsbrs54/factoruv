@@ -14,5 +14,5 @@
 ## Snyk
 [![Known Vulnerabilities](https://snyk.io/test/github/andrewsbrs54/proyecto2/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/andrewsbrs54/proyecto2?targetFile=requirements.txt)
 
-##Better code hub test 1
-[![BCH compliance](https://bettercodehub.com/edge/badge/andrewsbrs54/factoruv?branch=master)](https://bettercodehub.com/)
+## Better code hub test 1
+[[![BCH compliance](https://bettercodehub.com/edge/badge/andrewsbrs54/factoruv?branch=master)](https://bettercodehub.com/)
