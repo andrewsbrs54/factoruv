@@ -6,6 +6,8 @@
 [![Build Status](https://travis-ci.org/andrewsbrs54/factoruv.svg?branch=master)](https://travis-ci.org/andrewsbrs54/factoruv)
 
 ## Codacy code
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5902791788b4019909ff6caaa7b20da)](https://www.codacy.com/app/roxannasabando/factoruv?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andrewsbrs54/factoruv&amp;utm_campaign=Badge_Grade)
+
 ## Codacy coverage
 ## Snyk
 
