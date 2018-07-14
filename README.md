@@ -8,11 +8,11 @@
 ## Codacy code
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5902791788b4019909ff6caaa7b20da)](https://www.codacy.com/app/roxannasabando/factoruv?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andrewsbrs54/factoruv&amp;utm_campaign=Badge_Grade)
 
-## Codacy coverage
-[![codecov](https://codecov.io/gh/andrewsbrs54/factoruv/branch/master/graph/badge.svg)](https://codecov.io/gh/andrewsbrs54/factoruv)
-
 ## Snyk
 [![Known Vulnerabilities](https://snyk.io/test/github/andrewsbrs54/proyecto2/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/andrewsbrs54/proyecto2?targetFile=requirements.txt)
 
 ## Better code hub
 [![BCH compliance](https://bettercodehub.com/edge/badge/andrewsbrs54/factoruv?branch=master)](https://bettercodehub.com/)
+
+## Codacy coverage
+[![codecov](https://codecov.io/gh/andrewsbrs54/factoruv/branch/master/graph/badge.svg)](https://codecov.io/gh/andrewsbrs54/factoruv)
